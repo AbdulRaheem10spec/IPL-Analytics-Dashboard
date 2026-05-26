@@ -51,3 +51,16 @@ Abdul Raheem
 MBA - Finance & Business Analytics
 Project Status
 Completed and deployed as an interactive analytics dashboard project.
+
+
+
+## Visual Project Showcase
+
+### SaaS Executive Dashboard & Live Points Table
+![IPL Points Table Showcase](screenshot_dashboard.png)
+
+### Dynamic Tournament Visualizations
+![Thematic Charts](screenshot_charts.png)
+
+### Live Machine Learning Win Predictor Engine
+![ML Prediction Engine](screenshot_ml_predictor.png)
